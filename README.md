@@ -6,7 +6,8 @@ el proceso de elaboracion de diferentes productos tecnologicos, brindandole a su
 ademas de feedbacks y seccion de contacto para los demas perfiles usuarios.
 - Soporte: Seran usuarios responsables de habilitar y deshabilitar usuarios como tambien del buen funcionamiento de la web, tendran habilitados seccion de contacto para recibir cualquier problema que se les presente a los distintos usuarios.
 
-Integrantes del equipo.
+## Integrantes del equipo.
+
 Rocío Sanchez, tiene 20 años y durante la primer etapa del proyecto comienza con el rol de desarrollador, teniendo conocimientos en HTML, CSS(Flexbox/Grid - MediaQuery
 y estilizado de los sitios web),Git, GitHub y JavaScript, utilizando como editor de codigo Visual Studio Code. Para este proyecto utilizaremos ademas de las
 tecnologias aprendidas, estaremos implementando la metodología de Scrum.
